@@ -1,0 +1,14 @@
+.resize-enter {
+    opacity: 0.5;
+}
+.resize-enter-active {
+    opacity: 1;
+    transition: opacity 5s ease-in-out;
+}
+.resize-exit {
+    opacity: 0.5;
+}
+.resize-exit-active {
+    opacity: 1;
+    transition: opacity 5s ease-in-out;
+}
